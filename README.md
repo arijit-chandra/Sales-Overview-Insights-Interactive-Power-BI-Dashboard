@@ -87,3 +87,6 @@ All slicers dynamically update visuals for focused analysis.
 - Executive and management reporting  
 
 ---
+
+<img width="1117" height="610" alt="Screenshot 2026-01-15 011654" src="https://github.com/user-attachments/assets/b62df721-5b53-4661-bb40-e3563a031b84" />
+

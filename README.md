@@ -1,106 +1,89 @@
-📊 Sales Overview Insights – Interactive Power BI Dashboard
+# 📊 Sales Overview Insights – Interactive Power BI Dashboard
 
-This project presents an interactive Sales Overview Dashboard built using Power BI, designed to deliver clear, actionable insights into sales performance across products, categories, locations, and time.
-The dashboard enables stakeholders to quickly identify trends, top-performing regions, products, and daily sales patterns through dynamic visuals and slicers.
+This project showcases an **interactive Sales Overview Dashboard** built using **Power BI**, designed to deliver clear and actionable insights into sales performance across products, categories, locations, and time.  
+Dynamic visuals and slicers enable stakeholders to quickly identify trends, top-performing regions, products, and daily sales patterns.
 
-🔍 Project Overview
+---
 
-The dashboard provides a comprehensive snapshot of sales performance with the ability to drill down using interactive filters such as Country, Year, and Month.
-It is designed for business users who need quick decision-making insights without navigating complex reports.
+## 🔍 Project Overview
 
-Key objectives of the dashboard:
+The dashboard provides a **comprehensive snapshot of sales performance** with drill-down capabilities using interactive filters such as **Country, Year, and Month**.  
+It is built for business users who need **fast, insight-driven decision making** without navigating complex reports.
 
-Monitor overall sales performance
+### Key Objectives
+- Monitor overall sales performance  
+- Identify top-selling products, categories, states, and cities  
+- Analyze daily sales trends  
+- Enable slice-and-dice analysis through dynamic filters  
 
-Identify top-selling products, categories, states, and cities
+---
 
-Analyze daily sales trends
+## ✨ Key Features
 
-Enable slice-and-dice analysis through dynamic filters
+### 📌 Total Sales KPI
+- Displays overall sales value
+- Includes trend indicators and month-over-month comparison
 
-✨ Key Features
+### 📦 Top Product Sales
+- Highlights highest-performing products by revenue
 
-Total Sales KPI
+### 🗂️ Top Product Category Sales
+- Compares sales contribution across categories such as Bikes, Accessories, and Clothing
 
-Displays overall sales value with trend indicators and month-over-month comparison.
+### 🌍 Top State & City Sales
+- Identifies leading states and cities driving revenue
 
-Top Product Sales
+### 📅 Total Sales by Day
+- Visualizes daily sales trends to identify peaks and dips
 
-Highlights the highest-performing products based on revenue.
+### 🎛️ Interactive Slicers
+- Country  
+- Year  
+- Month  
+All slicers dynamically update visuals for focused analysis.
 
-Top Product Category Sales
+---
 
-Compares sales contribution across categories such as Bikes, Accessories, and Clothing.
+## 🛠️ Skills & Tools Utilized
 
-Top State & City Sales
+### Power BI
+- Interactive dashboard development  
+- KPI cards, bar charts, and trend visuals  
 
-Identifies leading states and cities driving revenue.
+### DAX (Data Analysis Expressions)
+- Custom measures for total sales  
+- Time-based calculations  
+- Top N ranking logic  
 
-Total Sales by Day
+### Data Modeling
+- Optimized relationships between fact and dimension tables  
+- Star schema for performance and scalability  
 
-Visualizes daily sales trends to detect peaks and dips in performance.
+### Power Query (ETL)
+- Data cleaning and transformation  
+- Merge Queries for integrating multiple datasets  
 
-Interactive Slicers
+### Data Visualization Best Practices
+- Clear information hierarchy  
+- Consistent color themes  
+- Business-friendly layout for executives  
 
-Country
+---
 
-Year
+## 📈 Business Value
 
-Month
-These slicers dynamically update all visuals for focused analysis.
+- Enables data-driven decision making  
+- Quickly identifies high-performing products and regions  
+- Tracks sales trends over time  
+- Reduces manual reporting through automation and interactivity  
 
-🛠️ Skills & Tools Utilized
+---
 
-Power BI
+## 🚀 Use Cases
 
-Interactive dashboard development
+- Sales performance monitoring  
+- Regional and city-level sales analysis  
+- Product and category optimization  
+- Executive and management reporting  
 
-KPI cards, bar charts, and trend visuals
-
-DAX (Data Analysis Expressions)
-
-Custom measures for total sales
-
-Time-based calculations
-
-Ranking logic for Top N analysis
-
-Data Modeling
-
-Optimized relationships between fact and dimension tables
-
-Star schema approach for performance and scalability
-
-Power Query (ETL)
-
-Data cleaning and transformation
-
-Merge Queries to integrate multiple datasets
-
-Data Visualization Best Practices
-
-Clear hierarchy of information
-
-Consistent color themes
-
-Business-friendly layout for executive consumption
-
-📈 Business Value
-
-Enables data-driven decision making
-
-Quickly identifies high-performing products and regions
-
-Helps track sales trends over time
-
-Reduces manual reporting effort through automation and interactivity
-
-🚀 Use Cases
-
-Sales performance monitoring
-
-Regional and city-level sales analysis
-
-Product and category optimization
-
-Executive and management reporting
+---
